@@ -1,4 +1,4 @@
-# Telegram Remote PC Control
+# Telegram-Based-Remote-Administration-Tool-RAT
 
 A Python-based Telegram bot for remote computer administration, system monitoring, and security research. The project integrates Telegram Bot API with system-level utilities to provide remote control, file management, hardware monitoring, and Windows-specific functionality.
 
