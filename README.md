@@ -1,4 +1,4 @@
-# Telegram-Based Remote Administration Tool (RAT) — Authorized Self-Owned Windows Lab
+# Telegram-Based Remote Administration Tool (RAT) ( Authorized Self-Owned Windows Lab )
 
 A personal cybersecurity lab project for learning remote administration concepts on a Windows machine you own.
 
